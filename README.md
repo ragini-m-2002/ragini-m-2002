@@ -1,7 +1,7 @@
 # Ragini M
 **M.Tech, Aerospace Engineering**  
 Indian Institute of Technology Kanpur  
-raginim24@iitk.ac.in 
+raginim24@iitk.ac.in \\
 [LinkedIn](https://www.linkedin.com/in/ragini-m-aero)
 
 ---
