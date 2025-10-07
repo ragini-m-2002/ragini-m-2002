@@ -58,6 +58,7 @@ My work bridges analytical and numerical approaches—using **MATLAB**, **ABAQUS
 - [Design Optimization and Process Improvement in Additive Manufacturing (3D Printing)](https://github.com/ragini-m-2002/Design-Optimization-and-Process-Improvement-in-Additive-Manufacturing-3D-Printing-)  
 - [Preliminary Design of an Amphibious Aircraft](https://github.com/ragini-m-2002/Preliminary-Design-of-an-Amphibious-Aircraft-)  
 - [Buckling Eigenvalue Analysis using Abaqus CAE](https://github.com/ragini-m-2002/Buckling-Eigenvalue-Analysis-using-Abaqus-CAE)  
+- [E-mail Server Using Javascript](https://github.com/ragini-m-2002/E-mail-server_Javasript)  
 
 ---
 
