@@ -21,18 +21,19 @@ My work bridges analytical and numerical approaches—using **MATLAB**, **ABAQUS
 
 ---
 
-## Achievements
-- **Airbus – IIT Flying Start Scholarship (2024–25)**  
-- **AIR 249 (Aerospace)** – GATE 2024  
-- **CPI 9.75** at IIT Kanpur (2025)  
-- Peer-reviewed publication in *Springer Nature* and multiple national-level presentations.
+## Leadership & Responsibilities
 
----
+- **Cultural Head**, Society of Aerospace Engineers (SAE), IIT Kanpur (Feb 2024 – Present)  
+  Organized major departmental events including Freshers’, Farewell, Convocation, and National Space Day.  
 
-## Academic Involvement
-- **Graduate Teaching Assistant**, IIT Kanpur – *Continuum Mechanics* (2025–Present)  
-- **Cultural Head**, Society of Aerospace Engineers, IIT Kanpur (2024–Present)  
-- **Social Media Head**, Tamil Mandram, IIT Kanpur (2024–Present)
+- **Social Media Head**, Tamil Mandram, IIT Kanpur (Jul 2024 – Present)  
+  Managed online presence and designed promotional content for cultural events.  
+
+- **Team Head – Daksh Events**, SASTRA University (Jun 2023 – May 2024)  
+  Led the School of Mechanical Engineering events cluster; organized SAE India Electric Four-Wheeler Design Competition and university technical fests.  
+
+- **Mentor**, Entrepreneurship Cell, SASTRA University (Jun 2023 – May 2024)  
+  Conducted and organized workshops and seminars on entrepreneurship and startup models; guided students on project development and presentation.  
 
 ---
 
