@@ -7,8 +7,10 @@ raginim24@iitk.ac.in \\
 ---
 
 ## About Me
-I am a postgraduate student at IIT Kanpur specializing in **Aerospace Structures and Computational Mechanics**, with a strong background in **finite element analysis (FEA)** and **composite materials**.  
-My work bridges analytical and numerical approaches—using **MATLAB**, **ABAQUS**, and **ANSYS**—to model and analyze advanced aerospace structures and material systems.
+I am a postgraduate student at **IIT Kanpur** specializing in **Aerospace Structures and Computational Mechanics**, with a strong foundation in **finite element analysis (FEA)**, **structural dynamics**, and **composite materials**.  
+My research integrates analytical and numerical techniques—using **MATLAB**, **ABAQUS** to model and optimize aerospace structural systems.  
+
+I completed my **B.Tech in Aerospace Engineering (2024)** from **SASTRA Deemed University**, Thanjavur, with a CGPA of **8.81/10**, where I gained core experience in aircraft design, composite mechanics, and simulation-driven analysis.  
 
 ---
 
